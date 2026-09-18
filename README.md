@@ -6,22 +6,7 @@ semantic table routing, minimal sub-schema extraction, an LLM SQL generator,
 an execution loop with automatic self-correction on runtime errors, and a
 natural-language + tabular output formatter.
 
-## Why the data is hard
 
-- **Joint accounts**: ownership goes through `account_holders`, not a direct FK.
-- **Ambiguous terms**: `current_balance` vs `available_balance`; `status` on
-  `accounts` can be stale relative to `account_status_history`.
-- **Polymorphic references**: `fraud_flags.entity_type` and
-  `interest_rate_history.applies_to_type` determine which table the row
-  actually points to — no single clean foreign key.
-- **Dual representation**: a transfer exists both as one row in `transfers`
-  and as two linked rows in `transactions` — summing both double-counts.
-- **Self-referential hierarchy**: `employees.manager_id` (up to 3 levels).
-- **Temporal data**: overlapping interest rate windows, multi-currency
-  transactions needing `exchange_rates` for a specific date, historical risk
-  scores where "current" means "latest by date".
-
-## Architecture
 
 ```
 question -> [1] semantic router (FAISS + sentence-transformers over the
