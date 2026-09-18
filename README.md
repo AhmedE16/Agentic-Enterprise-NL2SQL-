@@ -7,7 +7,7 @@ an execution loop with automatic self-correction on runtime errors, and a
 natural-language + tabular output formatter.
 
 
-
+## Architecture Details
 ```
 question -> [1] semantic router (FAISS + sentence-transformers over the
                  metadata registry)
@@ -64,7 +64,7 @@ streamlit run app.py
 
 You can now open `http://localhost:8501` in your browser and ask questions in plain English!
 
-## Architecture Details
+
 
 - **LLM**: Powered locally by `qwen2.5-coder:7b` via Ollama.
 - **Embeddings**: Local `sentence-transformers/all-MiniLM-L6-v2`.
