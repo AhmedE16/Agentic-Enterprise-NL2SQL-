@@ -1,0 +1,121 @@
+merchant_id,merchant_name,category,city,country
+1,"Torres, Valdez and Briggs",clothing,Romanbury,Qatar
+2,Wade-Clark,pharmacy,Hernandezberg,Germany
+3,Miller PLC,grocery,East Danielmouth,UAE
+4,Hernandez Inc,electronics,Kayleemouth,UAE
+5,"Allen, Olson and Ortiz",restaurant,Sharonborough,USA
+6,Douglas-Diaz,grocery,Leeland,Germany
+7,Johnson LLC,utilities,Lopezfort,UK
+8,Barrett-Sanders,online_retail,Shannonmouth,Germany
+9,"Levy, Henderson and Edwards",travel,North Misty,UK
+10,Best Group,restaurant,South Nancymouth,USA
+11,Williams and Sons,utilities,New Cassandra,France
+12,Solomon-Le,entertainment,Johnsontown,UAE
+13,"Ward, Cooper and Mendez",pharmacy,Aaronfort,France
+14,"Harris, Hernandez and Becker",entertainment,Alyssahaven,Germany
+15,"Salazar, Salazar and Graham",utilities,South Tamarashire,France
+16,"Roberts, Shea and Bryant",pharmacy,Marvinchester,Qatar
+17,"Sims, Conner and Wells",entertainment,Hickmanshire,UAE
+18,Leblanc PLC,grocery,South Joseph,Qatar
+19,"Phelps, Montoya and Barnett",utilities,Ralphtown,France
+20,"Perez, Walker and Underwood",entertainment,South Aaron,Germany
+21,Benjamin LLC,clothing,Smithport,UAE
+22,"Alvarado, Crawford and Carpenter",restaurant,Kimberlybury,Qatar
+23,Castro-Murphy,online_retail,North Gina,France
+24,Murphy and Sons,grocery,Smithberg,UK
+25,"Simon, Jackson and Carter",fuel,Robertchester,UK
+26,Daniel LLC,travel,Port Sarahport,Qatar
+27,"Holt, Fowler and Jones",pharmacy,Port David,USA
+28,Mckay Inc,electronics,Tammyville,Germany
+29,Morgan-Mason,fuel,Dixonfort,Qatar
+30,"Mendez, Floyd and Kelly",electronics,West Gregoryborough,France
+31,"Duffy, Swanson and Bartlett",restaurant,North Francismouth,UK
+32,Boyd Ltd,fuel,South Vickie,France
+33,"Bell, Peterson and Price",restaurant,Garciahaven,Qatar
+34,Lewis-Lee,online_retail,Ayalaland,UAE
+35,"Perez, Sandoval and Durham",online_retail,Grantmouth,UK
+36,Morris-Wood,utilities,North Shawntown,France
+37,"Kelly, Huerta and Peck",entertainment,Roberttown,Qatar
+38,Atkins-Miller,fuel,New Abigailville,Germany
+39,"Taylor, Snyder and Ferrell",fuel,Davidton,Qatar
+40,"Stewart, Collins and Short",utilities,Benjaminville,UK
+41,Crosby Ltd,grocery,Lake Jonathan,Germany
+42,Kidd-Ramirez,online_retail,Zavalahaven,France
+43,Jones-Parker,entertainment,Richardtown,Germany
+44,Murphy-Joseph,restaurant,New Carrie,UAE
+45,Cox Inc,pharmacy,Katrinamouth,Germany
+46,White and Sons,entertainment,East Brandonport,Qatar
+47,"Fischer, Durham and Miller",restaurant,Rebeccaport,USA
+48,Woodard Inc,pharmacy,Samanthachester,France
+49,Barrett LLC,travel,East Caseyshire,UAE
+50,Rodriguez Group,travel,South Lisafurt,Germany
+51,"Rodriguez, Moore and Ayers",utilities,North Matthew,Germany
+52,Wong PLC,online_retail,Lake Lisafort,France
+53,Daniel and Sons,travel,Lake Susan,Qatar
+54,"Hicks, Mayo and Smith",pharmacy,Barbaraborough,Qatar
+55,Kelley-Brown,restaurant,New Elizabeth,Qatar
+56,Bryan LLC,grocery,Derekshire,UAE
+57,Bartlett-Roberts,grocery,New Melissa,UK
+58,Mann LLC,utilities,Smithville,Germany
+59,Garza-Francis,restaurant,New Jack,USA
+60,"Carpenter, Coffey and Wright",pharmacy,East Whitneyton,Qatar
+61,"Jones, Foster and Sanford",grocery,Susanshire,UAE
+62,Pearson Ltd,entertainment,Port Heatherchester,France
+63,Peterson Group,grocery,East Jennifer,USA
+64,Melton LLC,utilities,Grayhaven,UK
+65,"Hill, Alvarado and Hodge",entertainment,East Paul,Qatar
+66,Berg Ltd,online_retail,South Tracy,France
+67,Kim-King,online_retail,Fordton,UK
+68,Goodman PLC,restaurant,Jamesville,France
+69,Taylor-Ramirez,utilities,Hammondfort,UK
+70,"Brown, Gibson and Turner",electronics,South James,UAE
+71,Franco-Stuart,clothing,Ethanbury,USA
+72,Conway-Smith,utilities,Lake Todd,UK
+73,Downs PLC,grocery,North Joseph,UAE
+74,Boyd-Vaughn,entertainment,Michellehaven,UK
+75,Francis-Smith,fuel,East Rachelview,UAE
+76,Todd Ltd,fuel,Lake Tyler,USA
+77,"Smith, Benjamin and Murphy",utilities,Bradleytown,Qatar
+78,Lee-Rodriguez,clothing,Jenniferchester,Qatar
+79,Horton-Nelson,travel,Lake Richard,Germany
+80,"Cunningham, Kelly and James",fuel,East Mark,France
+81,Kelly-Blake,entertainment,Trevorchester,Germany
+82,"Smith, Jones and Cunningham",travel,East Robert,France
+83,Harris Group,electronics,North Erinside,Qatar
+84,Higgins-Walker,travel,East Nathan,UAE
+85,Scott PLC,online_retail,Martinezview,UK
+86,"Chapman, Cole and Clark",utilities,Sandraville,Qatar
+87,Trujillo PLC,restaurant,North Thomas,Qatar
+88,Weaver-Sandoval,clothing,Port Tracyborough,France
+89,Clay-Garcia,pharmacy,New Joshua,Germany
+90,Horton-Michael,travel,Hawkinsburgh,UAE
+91,Rodgers Ltd,fuel,Lake Joshuaburgh,USA
+92,Young Inc,travel,East Margaret,Germany
+93,Anderson Group,pharmacy,Lake Shannonberg,France
+94,Wilson Ltd,entertainment,West Courtney,Germany
+95,Davenport-Reynolds,entertainment,Port Rachelfort,UAE
+96,Smith-Brooks,entertainment,Lake Megan,UAE
+97,Rodriguez-Duran,pharmacy,North Eric,UAE
+98,Hamilton Ltd,fuel,West Jennifer,UAE
+99,"Peters, Byrd and Dodson",grocery,Oliviaburgh,Germany
+100,"Patel, Bradley and Mckay",grocery,Jacksonmouth,UAE
+101,Stewart-Obrien,restaurant,East Richardfurt,UK
+102,"Marshall, Davis and Perkins",clothing,North Jerry,Qatar
+103,"Ferguson, Vincent and Castro",electronics,Blankenshipshire,Germany
+104,"Rojas, Taylor and Holmes",online_retail,Port David,Qatar
+105,Romero PLC,travel,East Amberland,Germany
+106,Warren-Davis,online_retail,Martinberg,Germany
+107,Williams Group,utilities,East Leah,USA
+108,Hale Inc,fuel,New Scott,UK
+109,Le-Payne,fuel,Stevenview,France
+110,Johnson-Cannon,grocery,Port Elizabethtown,UAE
+111,"Johnson, Morris and Todd",online_retail,North Haileyfort,UAE
+112,Gonzales PLC,grocery,Briantown,USA
+113,"Hernandez, Gomez and Gray",grocery,Port Robinport,Qatar
+114,Green-Miller,restaurant,New Elizabeth,Qatar
+115,"Woods, Henry and Kent",clothing,East Gregoryport,USA
+116,"Howell, Williams and Gray",utilities,New Ryantown,Germany
+117,Greene Inc,pharmacy,Ninafurt,France
+118,Fields-Davis,entertainment,Alyssafurt,USA
+119,Hart-Young,restaurant,Port Joseph,France
+120,Ewing LLC,clothing,West Kyleburgh,France

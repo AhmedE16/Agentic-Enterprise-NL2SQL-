@@ -1,0 +1,5 @@
+account_type_id,type_name,description,monthly_fee
+1,checking,Everyday checking account,0.0
+2,savings,Interest-bearing savings account,0.0
+3,money_market,Higher-yield money market account,10.0
+4,credit_line,Revolving credit line,0.0

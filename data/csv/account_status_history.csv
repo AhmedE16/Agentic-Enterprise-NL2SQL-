@@ -1,0 +1,691 @@
+history_id,account_id,status,changed_at,changed_by_employee_id,reason
+1,1,active,2018-06-17T09:00:00,47,account opened
+2,2,active,2018-07-05T09:00:00,17,account opened
+3,2,under_review,2019-05-25T09:00:00,48,review
+4,3,active,2019-09-07T09:00:00,16,account opened
+5,4,active,2017-11-20T09:00:00,30,account opened
+6,4,frozen,2019-08-26T09:00:00,14,review
+7,5,active,2015-08-29T09:00:00,4,account opened
+8,6,active,2017-08-05T09:00:00,4,account opened
+9,7,active,2022-05-24T09:00:00,34,account opened
+10,7,frozen,2023-01-03T09:00:00,12,status update
+11,8,active,2020-08-19T09:00:00,7,account opened
+12,9,active,2017-02-25T09:00:00,6,account opened
+13,9,under_review,2017-12-20T09:00:00,16,review
+14,10,active,2017-09-23T09:00:00,42,account opened
+15,11,active,2016-01-18T09:00:00,41,account opened
+16,12,active,2022-03-26T09:00:00,7,account opened
+17,13,active,2024-09-25T09:00:00,44,account opened
+18,14,active,2015-05-15T09:00:00,14,account opened
+19,15,active,2024-03-16T09:00:00,16,account opened
+20,15,frozen,2025-03-12T09:00:00,45,review
+21,16,active,2018-09-20T09:00:00,6,account opened
+22,17,active,2019-11-26T09:00:00,39,account opened
+23,18,active,2022-02-10T09:00:00,25,account opened
+24,19,active,2019-04-06T09:00:00,6,account opened
+25,20,active,2016-09-23T09:00:00,20,account opened
+26,21,active,2016-06-26T09:00:00,7,account opened
+27,21,active,2016-09-24T09:00:00,4,review
+28,22,active,2023-10-19T09:00:00,6,account opened
+29,23,active,2020-11-04T09:00:00,32,account opened
+30,24,active,2020-06-06T09:00:00,32,account opened
+31,25,active,2016-07-08T09:00:00,52,account opened
+32,26,active,2024-02-23T09:00:00,39,account opened
+33,27,active,2016-12-28T09:00:00,32,account opened
+34,28,active,2018-02-22T09:00:00,38,account opened
+35,29,active,2015-04-21T09:00:00,19,account opened
+36,30,active,2022-07-19T09:00:00,43,account opened
+37,30,under_review,2024-01-16T09:00:00,40,review
+38,31,active,2020-12-28T09:00:00,51,account opened
+39,32,active,2021-08-29T09:00:00,43,account opened
+40,33,active,2015-07-01T09:00:00,22,account opened
+41,34,active,2016-02-08T09:00:00,37,account opened
+42,34,active,2016-04-20T09:00:00,38,review
+43,35,active,2023-08-30T09:00:00,31,account opened
+44,35,frozen,2025-02-25T09:00:00,32,review
+45,36,active,2016-08-03T09:00:00,34,account opened
+46,37,active,2023-02-05T09:00:00,8,account opened
+47,38,active,2023-04-22T09:00:00,30,account opened
+48,38,under_review,2025-05-18T09:00:00,34,review
+49,39,active,2017-02-02T09:00:00,13,account opened
+50,40,active,2022-11-26T09:00:00,37,account opened
+51,41,active,2020-02-18T09:00:00,21,account opened
+52,42,active,2016-04-12T09:00:00,46,account opened
+53,43,active,2022-07-15T09:00:00,45,account opened
+54,44,active,2019-09-29T09:00:00,12,account opened
+55,45,active,2017-02-05T09:00:00,1,account opened
+56,46,active,2021-04-19T09:00:00,27,account opened
+57,47,active,2015-12-05T09:00:00,15,account opened
+58,48,active,2021-05-05T09:00:00,8,account opened
+59,49,active,2024-03-26T09:00:00,49,account opened
+60,50,active,2016-02-24T09:00:00,3,account opened
+61,51,active,2019-12-04T09:00:00,14,account opened
+62,52,active,2024-08-27T09:00:00,14,account opened
+63,53,active,2020-12-20T09:00:00,19,account opened
+64,54,active,2016-07-09T09:00:00,56,account opened
+65,54,active,2017-12-24T09:00:00,49,review
+66,55,active,2017-10-19T09:00:00,54,account opened
+67,56,active,2022-02-03T09:00:00,57,account opened
+68,57,active,2018-02-13T09:00:00,38,account opened
+69,58,active,2022-02-13T09:00:00,14,account opened
+70,59,active,2018-08-15T09:00:00,32,account opened
+71,60,active,2015-07-08T09:00:00,8,account opened
+72,60,frozen,2016-03-29T09:00:00,12,review
+73,61,active,2015-01-03T09:00:00,57,account opened
+74,61,under_review,2015-07-19T09:00:00,46,review
+75,62,active,2016-01-18T09:00:00,58,account opened
+76,63,active,2018-06-05T09:00:00,7,account opened
+77,63,under_review,2018-08-15T09:00:00,29,review
+78,64,active,2020-10-28T09:00:00,56,account opened
+79,64,frozen,2021-11-05T09:00:00,36,status update
+80,65,active,2017-07-26T09:00:00,57,account opened
+81,66,active,2022-03-12T09:00:00,1,account opened
+82,67,active,2023-02-07T09:00:00,29,account opened
+83,68,active,2023-06-10T09:00:00,51,account opened
+84,69,active,2021-09-27T09:00:00,55,account opened
+85,69,frozen,2022-05-23T09:00:00,56,review
+86,70,active,2021-10-21T09:00:00,58,account opened
+87,71,active,2016-04-06T09:00:00,1,account opened
+88,72,active,2024-08-26T09:00:00,31,account opened
+89,73,active,2021-08-02T09:00:00,51,account opened
+90,74,active,2020-08-14T09:00:00,35,account opened
+91,75,active,2015-11-20T09:00:00,26,account opened
+92,76,active,2022-08-21T09:00:00,55,account opened
+93,77,active,2016-04-20T09:00:00,48,account opened
+94,78,active,2020-11-12T09:00:00,48,account opened
+95,78,active,2021-06-14T09:00:00,27,review
+96,79,active,2023-08-26T09:00:00,17,account opened
+97,80,active,2020-07-25T09:00:00,24,account opened
+98,81,active,2015-01-11T09:00:00,3,account opened
+99,81,closed,2015-03-10T09:00:00,57,status update
+100,82,active,2024-08-13T09:00:00,27,account opened
+101,82,closed,2025-01-15T09:00:00,44,status update
+102,83,active,2018-08-03T09:00:00,58,account opened
+103,84,active,2024-11-01T09:00:00,36,account opened
+104,84,under_review,2026-07-28T09:00:00,60,review
+105,85,active,2021-04-28T09:00:00,32,account opened
+106,86,active,2021-02-16T09:00:00,27,account opened
+107,87,active,2023-07-06T09:00:00,34,account opened
+108,87,frozen,2024-11-18T09:00:00,54,review
+109,88,active,2016-08-06T09:00:00,34,account opened
+110,89,active,2015-12-14T09:00:00,38,account opened
+111,90,active,2017-08-27T09:00:00,54,account opened
+112,91,active,2017-08-14T09:00:00,10,account opened
+113,92,active,2021-01-04T09:00:00,55,account opened
+114,93,active,2022-10-25T09:00:00,10,account opened
+115,94,active,2022-08-05T09:00:00,55,account opened
+116,94,active,2023-12-11T09:00:00,21,review
+117,95,active,2016-01-23T09:00:00,54,account opened
+118,96,active,2024-03-27T09:00:00,38,account opened
+119,97,active,2017-03-20T09:00:00,54,account opened
+120,98,active,2015-07-27T09:00:00,2,account opened
+121,99,active,2017-05-29T09:00:00,40,account opened
+122,99,frozen,2019-09-26T09:00:00,42,review
+123,100,active,2020-08-05T09:00:00,9,account opened
+124,101,active,2017-10-17T09:00:00,25,account opened
+125,102,active,2023-10-06T09:00:00,12,account opened
+126,103,active,2015-08-28T09:00:00,38,account opened
+127,104,active,2022-05-14T09:00:00,49,account opened
+128,105,active,2018-12-24T09:00:00,21,account opened
+129,105,under_review,2019-07-24T09:00:00,16,review
+130,106,active,2015-04-26T09:00:00,13,account opened
+131,107,active,2016-12-20T09:00:00,34,account opened
+132,108,active,2024-01-17T09:00:00,21,account opened
+133,108,frozen,2024-07-31T09:00:00,25,review
+134,109,active,2024-06-29T09:00:00,46,account opened
+135,110,active,2018-10-10T09:00:00,51,account opened
+136,111,active,2016-12-14T09:00:00,23,account opened
+137,112,active,2019-03-30T09:00:00,47,account opened
+138,113,active,2015-05-13T09:00:00,40,account opened
+139,113,under_review,2017-09-09T09:00:00,28,review
+140,114,active,2016-07-30T09:00:00,41,account opened
+141,115,active,2022-07-07T09:00:00,17,account opened
+142,116,active,2017-11-17T09:00:00,27,account opened
+143,117,active,2018-12-09T09:00:00,42,account opened
+144,118,active,2015-10-29T09:00:00,7,account opened
+145,119,active,2021-02-18T09:00:00,58,account opened
+146,119,under_review,2022-08-26T09:00:00,13,review
+147,120,active,2016-11-06T09:00:00,13,account opened
+148,121,active,2021-01-21T09:00:00,37,account opened
+149,122,active,2019-01-17T09:00:00,39,account opened
+150,122,closed,2019-11-11T09:00:00,39,status update
+151,123,active,2016-11-30T09:00:00,51,account opened
+152,124,active,2016-01-09T09:00:00,12,account opened
+153,125,active,2017-12-14T09:00:00,43,account opened
+154,126,active,2017-07-20T09:00:00,27,account opened
+155,127,active,2021-06-03T09:00:00,58,account opened
+156,128,active,2020-10-17T09:00:00,49,account opened
+157,129,active,2016-05-31T09:00:00,53,account opened
+158,129,under_review,2017-10-17T09:00:00,44,review
+159,129,closed,2018-02-18T09:00:00,42,status update
+160,130,active,2023-02-26T09:00:00,21,account opened
+161,131,active,2023-10-27T09:00:00,10,account opened
+162,131,under_review,2025-05-18T09:00:00,41,review
+163,132,active,2023-09-29T09:00:00,27,account opened
+164,133,active,2021-10-30T09:00:00,44,account opened
+165,133,under_review,2023-02-19T09:00:00,6,review
+166,134,active,2022-09-29T09:00:00,2,account opened
+167,135,active,2024-06-14T09:00:00,9,account opened
+168,136,active,2018-01-08T09:00:00,59,account opened
+169,136,frozen,2020-01-08T09:00:00,58,review
+170,137,active,2024-09-22T09:00:00,46,account opened
+171,138,active,2024-11-10T09:00:00,13,account opened
+172,139,active,2015-07-27T09:00:00,33,account opened
+173,140,active,2017-09-17T09:00:00,38,account opened
+174,141,active,2023-05-26T09:00:00,55,account opened
+175,142,active,2022-04-05T09:00:00,33,account opened
+176,143,active,2022-04-05T09:00:00,20,account opened
+177,144,active,2019-10-02T09:00:00,20,account opened
+178,145,active,2016-02-24T09:00:00,36,account opened
+179,145,closed,2016-10-28T09:00:00,43,status update
+180,146,active,2022-09-04T09:00:00,56,account opened
+181,147,active,2018-05-08T09:00:00,55,account opened
+182,148,active,2018-08-02T09:00:00,17,account opened
+183,149,active,2015-05-25T09:00:00,46,account opened
+184,150,active,2022-07-14T09:00:00,36,account opened
+185,151,active,2022-05-04T09:00:00,51,account opened
+186,151,active,2024-04-10T09:00:00,30,review
+187,152,active,2018-04-19T09:00:00,38,account opened
+188,152,frozen,2020-09-28T09:00:00,26,review
+189,153,active,2020-08-11T09:00:00,56,account opened
+190,153,under_review,2022-09-01T09:00:00,20,review
+191,154,active,2019-08-04T09:00:00,56,account opened
+192,155,active,2018-09-24T09:00:00,18,account opened
+193,156,active,2023-07-29T09:00:00,28,account opened
+194,157,active,2019-04-20T09:00:00,1,account opened
+195,157,closed,2019-09-12T09:00:00,22,status update
+196,158,active,2017-02-19T09:00:00,16,account opened
+197,158,closed,2017-06-04T09:00:00,14,status update
+198,159,active,2016-02-25T09:00:00,20,account opened
+199,159,active,2017-12-04T09:00:00,17,review
+200,160,active,2021-09-08T09:00:00,58,account opened
+201,161,active,2024-02-08T09:00:00,47,account opened
+202,161,active,2024-03-27T09:00:00,1,review
+203,162,active,2022-04-18T09:00:00,40,account opened
+204,163,active,2015-07-17T09:00:00,31,account opened
+205,163,active,2016-12-16T09:00:00,30,review
+206,164,active,2022-01-25T09:00:00,18,account opened
+207,164,closed,2023-01-06T09:00:00,48,status update
+208,165,active,2024-04-25T09:00:00,51,account opened
+209,166,active,2024-04-28T09:00:00,19,account opened
+210,167,active,2015-02-22T09:00:00,10,account opened
+211,168,active,2023-02-11T09:00:00,19,account opened
+212,169,active,2024-10-20T09:00:00,28,account opened
+213,169,closed,2025-10-09T09:00:00,45,status update
+214,170,active,2015-02-09T09:00:00,23,account opened
+215,171,active,2016-01-16T09:00:00,30,account opened
+216,172,active,2023-12-21T09:00:00,47,account opened
+217,172,frozen,2024-02-03T09:00:00,13,review
+218,173,active,2023-12-31T09:00:00,40,account opened
+219,173,frozen,2026-01-11T09:00:00,13,review
+220,174,active,2016-04-07T09:00:00,1,account opened
+221,175,active,2021-06-19T09:00:00,34,account opened
+222,176,active,2019-11-08T09:00:00,25,account opened
+223,177,active,2016-10-04T09:00:00,49,account opened
+224,178,active,2015-07-26T09:00:00,6,account opened
+225,179,active,2024-08-09T09:00:00,2,account opened
+226,180,active,2023-11-18T09:00:00,33,account opened
+227,181,active,2018-10-28T09:00:00,36,account opened
+228,181,under_review,2021-01-23T09:00:00,30,review
+229,182,active,2022-05-15T09:00:00,1,account opened
+230,182,under_review,2022-07-06T09:00:00,8,review
+231,183,active,2021-02-21T09:00:00,11,account opened
+232,183,frozen,2023-04-18T09:00:00,45,review
+233,184,active,2019-08-04T09:00:00,26,account opened
+234,185,active,2016-03-17T09:00:00,8,account opened
+235,186,active,2021-08-10T09:00:00,4,account opened
+236,186,under_review,2023-05-01T09:00:00,16,review
+237,187,active,2020-06-01T09:00:00,45,account opened
+238,188,active,2016-02-29T09:00:00,33,account opened
+239,189,active,2023-07-20T09:00:00,52,account opened
+240,190,active,2021-02-21T09:00:00,41,account opened
+241,190,frozen,2021-07-06T09:00:00,41,review
+242,191,active,2018-04-05T09:00:00,12,account opened
+243,192,active,2022-12-19T09:00:00,43,account opened
+244,193,active,2018-03-17T09:00:00,7,account opened
+245,194,active,2023-05-31T09:00:00,4,account opened
+246,195,active,2015-05-13T09:00:00,36,account opened
+247,196,active,2019-05-12T09:00:00,43,account opened
+248,197,active,2018-07-04T09:00:00,13,account opened
+249,198,active,2024-04-22T09:00:00,24,account opened
+250,198,under_review,2025-10-01T09:00:00,33,review
+251,199,active,2017-03-15T09:00:00,44,account opened
+252,200,active,2019-10-22T09:00:00,1,account opened
+253,201,active,2016-09-21T09:00:00,54,account opened
+254,202,active,2021-03-03T09:00:00,15,account opened
+255,203,active,2016-10-14T09:00:00,14,account opened
+256,204,active,2017-06-13T09:00:00,49,account opened
+257,205,active,2018-11-18T09:00:00,3,account opened
+258,206,active,2019-04-30T09:00:00,50,account opened
+259,207,active,2015-06-29T09:00:00,7,account opened
+260,208,active,2022-01-22T09:00:00,35,account opened
+261,208,active,2023-04-24T09:00:00,57,review
+262,209,active,2022-04-02T09:00:00,2,account opened
+263,210,active,2015-10-28T09:00:00,53,account opened
+264,210,closed,2016-10-02T09:00:00,23,status update
+265,211,active,2020-01-22T09:00:00,35,account opened
+266,212,active,2021-07-26T09:00:00,60,account opened
+267,212,closed,2021-10-26T09:00:00,19,status update
+268,213,active,2018-05-19T09:00:00,25,account opened
+269,214,active,2016-10-02T09:00:00,35,account opened
+270,215,active,2022-08-06T09:00:00,1,account opened
+271,216,active,2015-06-21T09:00:00,6,account opened
+272,216,closed,2016-04-26T09:00:00,59,status update
+273,217,active,2018-11-09T09:00:00,12,account opened
+274,218,active,2017-01-12T09:00:00,36,account opened
+275,219,active,2022-07-14T09:00:00,22,account opened
+276,220,active,2016-02-14T09:00:00,22,account opened
+277,221,active,2016-09-16T09:00:00,1,account opened
+278,222,active,2022-03-09T09:00:00,57,account opened
+279,223,active,2020-06-17T09:00:00,55,account opened
+280,224,active,2023-03-24T09:00:00,33,account opened
+281,225,active,2023-08-17T09:00:00,35,account opened
+282,226,active,2019-05-27T09:00:00,30,account opened
+283,227,active,2020-08-18T09:00:00,40,account opened
+284,227,closed,2021-02-28T09:00:00,51,status update
+285,228,active,2020-01-02T09:00:00,10,account opened
+286,229,active,2017-06-15T09:00:00,43,account opened
+287,230,active,2020-02-06T09:00:00,34,account opened
+288,230,frozen,2020-12-21T09:00:00,45,review
+289,231,active,2017-12-14T09:00:00,25,account opened
+290,232,active,2020-10-17T09:00:00,26,account opened
+291,233,active,2024-12-12T09:00:00,5,account opened
+292,233,frozen,2025-06-20T09:00:00,39,review
+293,234,active,2017-02-04T09:00:00,27,account opened
+294,235,active,2022-07-28T09:00:00,2,account opened
+295,236,active,2016-10-21T09:00:00,11,account opened
+296,237,active,2021-09-20T09:00:00,53,account opened
+297,238,active,2021-10-20T09:00:00,39,account opened
+298,239,active,2020-09-23T09:00:00,38,account opened
+299,240,active,2017-04-08T09:00:00,39,account opened
+300,241,active,2020-08-23T09:00:00,58,account opened
+301,242,active,2022-04-13T09:00:00,45,account opened
+302,243,active,2023-11-09T09:00:00,59,account opened
+303,244,active,2019-10-09T09:00:00,19,account opened
+304,244,active,2019-12-10T09:00:00,52,review
+305,245,active,2017-02-13T09:00:00,8,account opened
+306,245,under_review,2017-07-09T09:00:00,40,review
+307,245,closed,2017-11-12T09:00:00,8,status update
+308,246,active,2022-09-18T09:00:00,38,account opened
+309,247,active,2019-02-06T09:00:00,36,account opened
+310,248,active,2021-04-09T09:00:00,46,account opened
+311,249,active,2016-05-02T09:00:00,11,account opened
+312,250,active,2021-11-20T09:00:00,41,account opened
+313,251,active,2015-12-28T09:00:00,25,account opened
+314,252,active,2020-11-04T09:00:00,12,account opened
+315,253,active,2024-07-15T09:00:00,39,account opened
+316,254,active,2016-11-25T09:00:00,6,account opened
+317,255,active,2022-07-05T09:00:00,5,account opened
+318,256,active,2024-04-21T09:00:00,15,account opened
+319,257,active,2021-06-12T09:00:00,5,account opened
+320,257,frozen,2022-10-03T09:00:00,52,review
+321,257,closed,2023-06-04T09:00:00,54,status update
+322,258,active,2017-11-21T09:00:00,25,account opened
+323,259,active,2023-09-12T09:00:00,8,account opened
+324,260,active,2022-08-04T09:00:00,35,account opened
+325,261,active,2022-07-22T09:00:00,21,account opened
+326,262,active,2023-05-15T09:00:00,48,account opened
+327,263,active,2017-04-10T09:00:00,8,account opened
+328,263,active,2017-06-21T09:00:00,33,review
+329,264,active,2021-11-19T09:00:00,31,account opened
+330,264,active,2022-04-18T09:00:00,56,review
+331,264,closed,2022-08-11T09:00:00,59,status update
+332,265,active,2024-09-28T09:00:00,26,account opened
+333,266,active,2020-11-23T09:00:00,26,account opened
+334,267,active,2016-05-08T09:00:00,14,account opened
+335,268,active,2021-11-14T09:00:00,40,account opened
+336,269,active,2017-05-12T09:00:00,29,account opened
+337,270,active,2024-01-07T09:00:00,48,account opened
+338,271,active,2024-07-11T09:00:00,17,account opened
+339,271,under_review,2025-07-18T09:00:00,53,review
+340,272,active,2016-02-10T09:00:00,41,account opened
+341,272,frozen,2017-06-03T09:00:00,27,review
+342,273,active,2021-04-14T09:00:00,23,account opened
+343,274,active,2021-06-16T09:00:00,21,account opened
+344,274,under_review,2022-06-30T09:00:00,19,review
+345,275,active,2020-01-05T09:00:00,41,account opened
+346,276,active,2019-09-24T09:00:00,11,account opened
+347,276,under_review,2021-10-25T09:00:00,49,review
+348,277,active,2018-04-08T09:00:00,50,account opened
+349,278,active,2020-11-03T09:00:00,47,account opened
+350,279,active,2023-05-29T09:00:00,57,account opened
+351,280,active,2020-11-16T09:00:00,42,account opened
+352,281,active,2017-10-10T09:00:00,11,account opened
+353,282,active,2020-03-28T09:00:00,29,account opened
+354,283,active,2020-02-14T09:00:00,41,account opened
+355,283,under_review,2021-05-12T09:00:00,59,review
+356,284,active,2017-07-19T09:00:00,20,account opened
+357,285,active,2020-04-05T09:00:00,20,account opened
+358,286,active,2021-02-23T09:00:00,26,account opened
+359,287,active,2019-05-16T09:00:00,34,account opened
+360,288,active,2022-09-05T09:00:00,18,account opened
+361,289,active,2018-04-01T09:00:00,32,account opened
+362,289,frozen,2020-06-27T09:00:00,1,review
+363,290,active,2018-01-07T09:00:00,6,account opened
+364,291,active,2019-03-02T09:00:00,54,account opened
+365,292,active,2023-09-13T09:00:00,17,account opened
+366,292,under_review,2024-08-30T09:00:00,26,review
+367,293,active,2017-10-16T09:00:00,13,account opened
+368,294,active,2022-06-20T09:00:00,21,account opened
+369,294,frozen,2023-08-26T09:00:00,49,review
+370,295,active,2018-05-08T09:00:00,8,account opened
+371,295,active,2018-11-08T09:00:00,58,review
+372,296,active,2016-11-16T09:00:00,3,account opened
+373,297,active,2021-09-08T09:00:00,44,account opened
+374,298,active,2015-09-02T09:00:00,32,account opened
+375,299,active,2023-06-27T09:00:00,2,account opened
+376,300,active,2017-10-23T09:00:00,45,account opened
+377,301,active,2018-11-25T09:00:00,56,account opened
+378,302,active,2020-01-15T09:00:00,41,account opened
+379,303,active,2021-12-13T09:00:00,43,account opened
+380,304,active,2022-08-30T09:00:00,42,account opened
+381,305,active,2015-10-01T09:00:00,7,account opened
+382,305,closed,2016-10-14T09:00:00,48,status update
+383,306,active,2022-03-13T09:00:00,17,account opened
+384,307,active,2022-05-09T09:00:00,4,account opened
+385,308,active,2023-11-28T09:00:00,5,account opened
+386,309,active,2016-02-02T09:00:00,43,account opened
+387,310,active,2023-05-27T09:00:00,44,account opened
+388,311,active,2016-11-14T09:00:00,35,account opened
+389,311,under_review,2018-03-15T09:00:00,42,review
+390,312,active,2021-03-03T09:00:00,28,account opened
+391,313,active,2021-04-25T09:00:00,24,account opened
+392,314,active,2023-02-22T09:00:00,57,account opened
+393,314,closed,2024-01-31T09:00:00,29,status update
+394,315,active,2024-08-06T09:00:00,59,account opened
+395,316,active,2016-09-25T09:00:00,57,account opened
+396,317,active,2016-01-12T09:00:00,21,account opened
+397,318,active,2022-11-18T09:00:00,47,account opened
+398,319,active,2023-08-24T09:00:00,8,account opened
+399,319,under_review,2023-12-18T09:00:00,3,review
+400,320,active,2024-07-11T09:00:00,20,account opened
+401,320,frozen,2025-02-05T09:00:00,47,status update
+402,321,active,2016-09-04T09:00:00,26,account opened
+403,322,active,2020-08-29T09:00:00,22,account opened
+404,323,active,2017-12-11T09:00:00,9,account opened
+405,324,active,2022-04-25T09:00:00,16,account opened
+406,325,active,2016-01-02T09:00:00,23,account opened
+407,326,active,2016-11-24T09:00:00,29,account opened
+408,327,active,2017-03-28T09:00:00,48,account opened
+409,328,active,2022-10-12T09:00:00,48,account opened
+410,329,active,2023-06-01T09:00:00,45,account opened
+411,330,active,2020-11-27T09:00:00,45,account opened
+412,330,active,2022-08-25T09:00:00,17,review
+413,330,closed,2023-01-05T09:00:00,54,status update
+414,331,active,2015-02-04T09:00:00,24,account opened
+415,332,active,2019-05-03T09:00:00,21,account opened
+416,333,active,2017-02-02T09:00:00,3,account opened
+417,334,active,2020-06-29T09:00:00,41,account opened
+418,334,frozen,2022-12-07T09:00:00,24,review
+419,335,active,2022-01-07T09:00:00,36,account opened
+420,336,active,2019-05-29T09:00:00,40,account opened
+421,337,active,2017-09-11T09:00:00,29,account opened
+422,337,active,2018-02-15T09:00:00,29,review
+423,338,active,2021-07-07T09:00:00,46,account opened
+424,339,active,2022-05-11T09:00:00,47,account opened
+425,340,active,2024-11-14T09:00:00,48,account opened
+426,341,active,2016-09-14T09:00:00,40,account opened
+427,342,active,2017-08-03T09:00:00,50,account opened
+428,343,active,2020-04-04T09:00:00,32,account opened
+429,344,active,2015-05-13T09:00:00,15,account opened
+430,345,active,2015-09-28T09:00:00,40,account opened
+431,346,active,2024-12-14T09:00:00,48,account opened
+432,347,active,2021-11-09T09:00:00,46,account opened
+433,348,active,2020-02-15T09:00:00,26,account opened
+434,349,active,2020-10-15T09:00:00,57,account opened
+435,350,active,2019-09-27T09:00:00,30,account opened
+436,351,active,2020-08-12T09:00:00,9,account opened
+437,352,active,2017-01-02T09:00:00,6,account opened
+438,353,active,2023-12-07T09:00:00,41,account opened
+439,354,active,2023-02-25T09:00:00,25,account opened
+440,355,active,2017-01-02T09:00:00,29,account opened
+441,356,active,2017-04-10T09:00:00,55,account opened
+442,356,closed,2017-10-04T09:00:00,34,status update
+443,357,active,2017-09-01T09:00:00,39,account opened
+444,358,active,2021-12-13T09:00:00,4,account opened
+445,359,active,2022-06-25T09:00:00,7,account opened
+446,360,active,2018-03-10T09:00:00,12,account opened
+447,360,active,2019-06-18T09:00:00,54,review
+448,361,active,2015-05-27T09:00:00,5,account opened
+449,362,active,2020-04-12T09:00:00,34,account opened
+450,362,under_review,2020-09-22T09:00:00,31,review
+451,363,active,2016-03-23T09:00:00,47,account opened
+452,364,active,2021-10-29T09:00:00,60,account opened
+453,364,active,2023-05-20T09:00:00,26,review
+454,365,active,2024-11-28T09:00:00,2,account opened
+455,366,active,2023-12-20T09:00:00,52,account opened
+456,367,active,2022-09-27T09:00:00,21,account opened
+457,368,active,2018-10-30T09:00:00,13,account opened
+458,369,active,2020-04-27T09:00:00,58,account opened
+459,370,active,2023-04-30T09:00:00,21,account opened
+460,370,closed,2023-12-21T09:00:00,45,status update
+461,371,active,2022-09-08T09:00:00,10,account opened
+462,372,active,2022-01-10T09:00:00,8,account opened
+463,373,active,2024-08-14T09:00:00,16,account opened
+464,374,active,2018-05-23T09:00:00,6,account opened
+465,375,active,2020-08-10T09:00:00,56,account opened
+466,375,frozen,2022-01-18T09:00:00,46,review
+467,376,active,2023-08-18T09:00:00,9,account opened
+468,377,active,2023-01-02T09:00:00,55,account opened
+469,378,active,2024-12-21T09:00:00,2,account opened
+470,378,closed,2025-09-27T09:00:00,8,status update
+471,379,active,2018-08-07T09:00:00,43,account opened
+472,380,active,2021-12-26T09:00:00,18,account opened
+473,381,active,2018-06-29T09:00:00,31,account opened
+474,381,frozen,2020-02-21T09:00:00,24,review
+475,382,active,2015-08-09T09:00:00,41,account opened
+476,383,active,2018-12-27T09:00:00,35,account opened
+477,383,under_review,2019-05-18T09:00:00,8,review
+478,384,active,2016-01-16T09:00:00,44,account opened
+479,385,active,2017-08-07T09:00:00,24,account opened
+480,386,active,2023-11-05T09:00:00,8,account opened
+481,387,active,2018-03-02T09:00:00,7,account opened
+482,387,under_review,2019-04-19T09:00:00,20,review
+483,388,active,2018-08-27T09:00:00,30,account opened
+484,389,active,2017-09-25T09:00:00,53,account opened
+485,389,frozen,2018-03-19T09:00:00,51,review
+486,390,active,2021-05-12T09:00:00,43,account opened
+487,391,active,2024-05-20T09:00:00,53,account opened
+488,391,under_review,2025-04-05T09:00:00,14,review
+489,392,active,2021-09-16T09:00:00,32,account opened
+490,392,active,2023-02-28T09:00:00,1,review
+491,393,active,2024-02-29T09:00:00,49,account opened
+492,393,under_review,2024-06-07T09:00:00,56,review
+493,394,active,2021-06-25T09:00:00,51,account opened
+494,394,under_review,2023-03-03T09:00:00,20,review
+495,395,active,2018-11-11T09:00:00,55,account opened
+496,396,active,2015-01-04T09:00:00,56,account opened
+497,397,active,2022-12-25T09:00:00,31,account opened
+498,398,active,2016-09-23T09:00:00,1,account opened
+499,399,active,2016-07-10T09:00:00,51,account opened
+500,400,active,2020-02-05T09:00:00,12,account opened
+501,401,active,2024-06-30T09:00:00,37,account opened
+502,402,active,2022-11-27T09:00:00,47,account opened
+503,403,active,2020-03-19T09:00:00,16,account opened
+504,404,active,2015-11-16T09:00:00,58,account opened
+505,405,active,2020-02-03T09:00:00,52,account opened
+506,406,active,2021-09-13T09:00:00,31,account opened
+507,407,active,2018-04-10T09:00:00,33,account opened
+508,408,active,2018-02-01T09:00:00,38,account opened
+509,408,frozen,2019-01-17T09:00:00,40,status update
+510,409,active,2024-01-22T09:00:00,34,account opened
+511,410,active,2021-09-05T09:00:00,50,account opened
+512,411,active,2022-02-24T09:00:00,17,account opened
+513,412,active,2020-03-15T09:00:00,35,account opened
+514,413,active,2020-04-27T09:00:00,52,account opened
+515,414,active,2022-08-29T09:00:00,55,account opened
+516,415,active,2018-10-04T09:00:00,38,account opened
+517,416,active,2017-09-17T09:00:00,45,account opened
+518,417,active,2022-07-18T09:00:00,7,account opened
+519,417,closed,2023-07-25T09:00:00,2,status update
+520,418,active,2017-06-17T09:00:00,4,account opened
+521,419,active,2021-09-21T09:00:00,55,account opened
+522,420,active,2021-05-07T09:00:00,19,account opened
+523,421,active,2018-02-06T09:00:00,17,account opened
+524,422,active,2015-09-04T09:00:00,60,account opened
+525,422,active,2015-12-30T09:00:00,13,review
+526,423,active,2020-07-08T09:00:00,7,account opened
+527,424,active,2015-05-23T09:00:00,58,account opened
+528,425,active,2015-06-04T09:00:00,37,account opened
+529,426,active,2019-07-13T09:00:00,1,account opened
+530,427,active,2016-05-11T09:00:00,44,account opened
+531,428,active,2016-01-07T09:00:00,49,account opened
+532,429,active,2021-03-21T09:00:00,25,account opened
+533,429,closed,2021-04-09T09:00:00,8,status update
+534,430,active,2020-06-15T09:00:00,13,account opened
+535,431,active,2023-11-22T09:00:00,29,account opened
+536,432,active,2015-08-18T09:00:00,42,account opened
+537,433,active,2016-09-02T09:00:00,32,account opened
+538,434,active,2017-09-21T09:00:00,20,account opened
+539,435,active,2016-11-30T09:00:00,39,account opened
+540,436,active,2019-10-12T09:00:00,8,account opened
+541,437,active,2018-08-10T09:00:00,22,account opened
+542,438,active,2019-02-24T09:00:00,7,account opened
+543,438,active,2020-12-06T09:00:00,21,review
+544,439,active,2023-09-21T09:00:00,60,account opened
+545,440,active,2024-01-21T09:00:00,18,account opened
+546,440,frozen,2025-02-02T09:00:00,28,review
+547,441,active,2021-11-05T09:00:00,6,account opened
+548,441,frozen,2023-05-29T09:00:00,21,review
+549,442,active,2015-01-19T09:00:00,40,account opened
+550,443,active,2017-06-17T09:00:00,8,account opened
+551,443,frozen,2019-01-22T09:00:00,11,review
+552,444,active,2020-07-30T09:00:00,42,account opened
+553,445,active,2018-10-01T09:00:00,4,account opened
+554,445,frozen,2019-04-06T09:00:00,20,review
+555,446,active,2020-06-09T09:00:00,38,account opened
+556,447,active,2018-08-27T09:00:00,27,account opened
+557,448,active,2020-04-13T09:00:00,40,account opened
+558,448,under_review,2020-11-14T09:00:00,2,review
+559,449,active,2020-02-18T09:00:00,9,account opened
+560,450,active,2024-07-20T09:00:00,19,account opened
+561,451,active,2021-06-25T09:00:00,32,account opened
+562,451,frozen,2022-09-20T09:00:00,58,review
+563,452,active,2024-05-21T09:00:00,16,account opened
+564,452,frozen,2024-12-09T09:00:00,53,status update
+565,453,active,2016-09-02T09:00:00,31,account opened
+566,454,active,2020-12-15T09:00:00,32,account opened
+567,454,frozen,2023-02-23T09:00:00,39,review
+568,455,active,2022-10-10T09:00:00,19,account opened
+569,456,active,2022-07-03T09:00:00,2,account opened
+570,457,active,2024-10-20T09:00:00,41,account opened
+571,458,active,2015-10-17T09:00:00,49,account opened
+572,459,active,2023-11-29T09:00:00,60,account opened
+573,459,frozen,2024-11-18T09:00:00,30,review
+574,460,active,2019-02-06T09:00:00,46,account opened
+575,461,active,2017-09-04T09:00:00,56,account opened
+576,461,frozen,2018-11-25T09:00:00,41,review
+577,462,active,2023-07-14T09:00:00,44,account opened
+578,463,active,2018-11-15T09:00:00,35,account opened
+579,464,active,2021-12-18T09:00:00,57,account opened
+580,465,active,2018-03-27T09:00:00,10,account opened
+581,466,active,2015-04-03T09:00:00,23,account opened
+582,467,active,2018-04-09T09:00:00,34,account opened
+583,467,frozen,2019-01-28T09:00:00,42,status update
+584,468,active,2022-05-09T09:00:00,54,account opened
+585,469,active,2016-06-24T09:00:00,24,account opened
+586,470,active,2016-08-30T09:00:00,60,account opened
+587,471,active,2016-04-23T09:00:00,24,account opened
+588,471,active,2017-10-17T09:00:00,14,review
+589,471,closed,2018-01-07T09:00:00,24,status update
+590,472,active,2020-01-11T09:00:00,26,account opened
+591,473,active,2018-08-04T09:00:00,42,account opened
+592,473,frozen,2020-03-06T09:00:00,28,review
+593,474,active,2022-06-24T09:00:00,45,account opened
+594,475,active,2016-04-23T09:00:00,6,account opened
+595,476,active,2021-07-17T09:00:00,6,account opened
+596,476,under_review,2023-12-13T09:00:00,40,review
+597,477,active,2015-12-24T09:00:00,33,account opened
+598,478,active,2016-08-28T09:00:00,23,account opened
+599,479,active,2015-12-25T09:00:00,27,account opened
+600,479,under_review,2016-10-29T09:00:00,39,review
+601,480,active,2019-10-03T09:00:00,10,account opened
+602,481,active,2018-10-05T09:00:00,6,account opened
+603,482,active,2020-03-07T09:00:00,25,account opened
+604,483,active,2024-05-11T09:00:00,51,account opened
+605,484,active,2022-06-20T09:00:00,16,account opened
+606,485,active,2023-05-12T09:00:00,44,account opened
+607,486,active,2019-03-09T09:00:00,11,account opened
+608,487,active,2024-11-06T09:00:00,41,account opened
+609,487,active,2026-07-05T09:00:00,5,review
+610,488,active,2018-04-09T09:00:00,12,account opened
+611,489,active,2021-02-05T09:00:00,52,account opened
+612,490,active,2019-01-24T09:00:00,34,account opened
+613,490,frozen,2021-03-06T09:00:00,36,review
+614,491,active,2018-10-25T09:00:00,54,account opened
+615,492,active,2016-04-22T09:00:00,24,account opened
+616,493,active,2018-06-01T09:00:00,45,account opened
+617,493,closed,2019-02-24T09:00:00,52,status update
+618,494,active,2015-11-18T09:00:00,31,account opened
+619,495,active,2015-05-15T09:00:00,17,account opened
+620,496,active,2023-10-10T09:00:00,13,account opened
+621,497,active,2018-12-13T09:00:00,37,account opened
+622,498,active,2023-01-10T09:00:00,47,account opened
+623,499,active,2021-08-11T09:00:00,25,account opened
+624,500,active,2016-04-07T09:00:00,32,account opened
+625,501,active,2023-02-05T09:00:00,30,account opened
+626,501,closed,2023-08-08T09:00:00,14,status update
+627,502,active,2017-07-14T09:00:00,5,account opened
+628,503,active,2017-01-04T09:00:00,29,account opened
+629,503,closed,2017-01-22T09:00:00,59,status update
+630,504,active,2016-08-10T09:00:00,58,account opened
+631,505,active,2018-10-19T09:00:00,28,account opened
+632,506,active,2023-08-04T09:00:00,42,account opened
+633,506,under_review,2023-09-07T09:00:00,58,review
+634,507,active,2021-10-06T09:00:00,30,account opened
+635,507,frozen,2023-01-02T09:00:00,36,review
+636,508,active,2016-07-05T09:00:00,44,account opened
+637,508,closed,2017-07-10T09:00:00,32,status update
+638,509,active,2021-12-22T09:00:00,32,account opened
+639,510,active,2020-08-01T09:00:00,35,account opened
+640,511,active,2020-01-18T09:00:00,36,account opened
+641,512,active,2016-11-03T09:00:00,8,account opened
+642,513,active,2022-09-08T09:00:00,4,account opened
+643,513,frozen,2025-02-06T09:00:00,53,review
+644,514,active,2021-12-01T09:00:00,38,account opened
+645,515,active,2018-10-29T09:00:00,27,account opened
+646,516,active,2017-08-19T09:00:00,20,account opened
+647,517,active,2022-05-18T09:00:00,45,account opened
+648,518,active,2021-05-25T09:00:00,44,account opened
+649,519,active,2018-10-22T09:00:00,41,account opened
+650,520,active,2017-05-26T09:00:00,26,account opened
+651,520,active,2017-07-03T09:00:00,8,review
+652,521,active,2023-01-18T09:00:00,52,account opened
+653,522,active,2023-12-03T09:00:00,43,account opened
+654,523,active,2017-10-26T09:00:00,2,account opened
+655,524,active,2021-06-20T09:00:00,30,account opened
+656,525,active,2024-07-24T09:00:00,34,account opened
+657,525,under_review,2026-07-20T09:00:00,59,review
+658,526,active,2016-09-08T09:00:00,56,account opened
+659,527,active,2024-06-27T09:00:00,39,account opened
+660,527,active,2026-04-28T09:00:00,20,review
+661,528,active,2017-02-25T09:00:00,36,account opened
+662,528,closed,2017-06-28T09:00:00,15,status update
+663,529,active,2017-04-07T09:00:00,43,account opened
+664,530,active,2023-02-07T09:00:00,6,account opened
+665,530,frozen,2023-03-07T09:00:00,18,status update
+666,531,active,2019-07-26T09:00:00,26,account opened
+667,532,active,2017-08-24T09:00:00,34,account opened
+668,533,active,2017-10-28T09:00:00,50,account opened
+669,534,active,2023-04-08T09:00:00,28,account opened
+670,534,active,2024-06-16T09:00:00,8,review
+671,535,active,2018-01-29T09:00:00,24,account opened
+672,536,active,2019-10-02T09:00:00,10,account opened
+673,537,active,2015-03-28T09:00:00,52,account opened
+674,538,active,2017-09-08T09:00:00,45,account opened
+675,539,active,2024-09-21T09:00:00,26,account opened
+676,540,active,2024-03-23T09:00:00,29,account opened
+677,541,active,2023-11-08T09:00:00,32,account opened
+678,541,closed,2024-09-02T09:00:00,12,status update
+679,542,active,2023-01-17T09:00:00,11,account opened
+680,542,frozen,2025-03-20T09:00:00,5,review
+681,543,active,2019-09-20T09:00:00,2,account opened
+682,543,active,2020-06-09T09:00:00,57,review
+683,544,active,2022-01-25T09:00:00,13,account opened
+684,545,active,2016-03-29T09:00:00,49,account opened
+685,546,active,2020-01-24T09:00:00,44,account opened
+686,546,active,2020-03-17T09:00:00,45,review
+687,547,active,2017-03-24T09:00:00,25,account opened
+688,548,active,2015-04-05T09:00:00,30,account opened
+689,549,active,2015-07-23T09:00:00,6,account opened
+690,550,active,2015-02-27T09:00:00,44,account opened

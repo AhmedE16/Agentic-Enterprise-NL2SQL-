@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.faiss
+*meta.json
+registry.json
+outputs/
+.pytest_cache/
+.DS_Store
+create_cv.py
+Ahmad_Essam_CV_Updated.docx

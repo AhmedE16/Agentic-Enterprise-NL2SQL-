@@ -1,0 +1,8 @@
+txn_type_id,type_name,category
+1,deposit,credit
+2,withdrawal,debit
+3,transfer_out,debit
+4,transfer_in,credit
+5,fee,debit
+6,interest,credit
+7,loan_payment,debit
